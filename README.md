@@ -5,7 +5,7 @@ Huzzah! Got a website:
 - item 1
 - item 2
 
-![]({{site.baseurl}}/https://docs.google.com/drawings/d/17Uyjlz5yG56aBGsPEV5kWzcnwE9bQEczsJiwZ8Xb26E/pub?w=300)
+![](https://docs.google.com/drawings/d/17Uyjlz5yG56aBGsPEV5kWzcnwE9bQEczsJiwZ8Xb26E/pub?w=300)
 
 ## Header here
 
